@@ -22,11 +22,9 @@ body{
     display:flex;
     flex-direction:column;
     margin:auto 10rem;
-    background-color:var(--secondary-color);
     margin-top:3rem;
     margin-bottom:3rem;
-
-
+    background-color:var(--secondary-color);
 
 }
 
@@ -86,7 +84,6 @@ td {
 }
 
 #check-button{
-
 margin:1rem auto;
 border-radius:0.5rem;
 font-size:large;
